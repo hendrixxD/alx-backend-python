@@ -3,7 +3,7 @@
 
 # from typing import Float
 
-def add(a: float, b: float):
+def add(a: float, b: float) -> float:
     """
     a: float
     b: float
